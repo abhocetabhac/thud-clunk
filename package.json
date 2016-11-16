@@ -1,0 +1,13 @@
+{
+  "name": "thud-clunk",
+  "version": "1.0.0",
+  "description": "Converts node's asynchronous IO functions to thunks. Each thunk is implicitly used in tandem with a generator function that applies try/catch error scheme while preserving the non-blocking advantages.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "abhocetabhac <abhocetabhacetabilla@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

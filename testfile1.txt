@@ -1,0 +1,6 @@
+- How could I use node's asynchronous IO advantages and easily delegate
+post-processing to clean sequence of functions?
+- Simple, use module "thud-clunk".
+- Nice, thanks!
+
+
